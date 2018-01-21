@@ -3,8 +3,8 @@ Simple Medicine Inventory System written in PHP7 and Skeleton CSS. Backend is My
 
 ## Links:
 
-###Skeleton CSS
+### Skeleton CSS
 https://github.com/dhg/Skeleton
 
-###Medicine Favicon
+### Medicine Favicon
 http://flaticons.net/customize.php?dir=Medical&icon=Medicine.png
