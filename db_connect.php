@@ -3,7 +3,7 @@
     $username    = "root";
     $password    = "";
     
-    // Create connection
+    // Create connection. Start using mysqli* because PHP7 drops support for mysql*
     $conn = mysqli_connect($server_name, $username, $password);
     
     // Check connection
